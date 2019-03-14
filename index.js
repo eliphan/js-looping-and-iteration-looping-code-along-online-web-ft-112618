@@ -9,3 +9,4 @@ function printBadges (names) {
 
 function tailsNeverFails () {
   let tails = 0;
+}
